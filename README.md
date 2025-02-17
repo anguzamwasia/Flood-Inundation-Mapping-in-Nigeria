@@ -13,6 +13,9 @@ The Nigeria Flood Mapping Project focuses on analyzing flood extent and water le
 - **Sentinel-2 Imagery**: High-resolution satellite imagery to monitor flood events and water extent.
 - **Digital Elevation Model (DEM)**: To assess topography and identify areas at risk of flooding.
 - **Nigeria National Flood Data**: Historical flood event data for comparison.
+- **Use the following links to download the data that was used.**
+  1. https://code.earthengine.google.com/0283ce4f7b86044e31c486c66283afc2.
+  2. https://code.earthengine.google.com/beb087624809d796a0440352834090af.
 
 ## Key Features
 1. **Flood Detection Algorithms**: NDWI (Normalized Difference Water Index), MNDWI (Modified NDWI) to classify flood and non-flood areas.
